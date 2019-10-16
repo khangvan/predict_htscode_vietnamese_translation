@@ -1,0 +1,1 @@
+activate base && streamlit run --server.port 5050 --browser.serverAddress vnmacsdb %~dp0mystreamlit.py
